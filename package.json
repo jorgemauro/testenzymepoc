@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "chromedriver": "^77.0.0",
+    "chromedriver": "^119.0.1",
     "mocha": "^6.2.1",
     "npm-upgrade": "^2.0.2",
     "prop-types": "^15.7.2",
